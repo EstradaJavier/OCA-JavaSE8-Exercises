@@ -9,6 +9,9 @@ package com.company;
  *  --
  *  --
  *  -- (interface = behaviours). can eat, can poop, can walk, can run.
+ *
+ *  --  With interfaces, all fields are automatically public, static, and final, and all
+ *  --  methods that you declare or define (as default methods) are public.
  *****************************************************************************************/
 
 public interface AnimalBehaviour {

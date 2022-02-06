@@ -31,6 +31,7 @@ public class ArrayListExample {
 //		fruitList.clear();
         System.out.println(fruitList.contains("Raspberry"));
         System.out.println(fruitList.size());
+        System.out.println(fruitList.size());
 
 
     }
